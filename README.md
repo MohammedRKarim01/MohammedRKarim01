@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Mohammed 👋
 
-<!--
-**MohammedRKarim01/MohammedRKarim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at California State University, Long Beach (CSULB). Class of 2028.
 
-Here are some ideas to get you started:
+I'm interested in digital logic design, FPGA development, embedded systems, and the intersection of hardware and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with:**
+- Verilog HDL on Xilinx Vivado / Digilent Nexys A7-100T FPGA
+- Python, C++, MATLAB
+- Network security fundamentals & ethical hacking concepts
+
+**Currently learning:** Embedded systems & edge AI development.
+
+Reach me: mohammedrkarim01@gmail.com
